@@ -8,6 +8,8 @@ Rating website for student dorm buildings.
 
 Visit at [https://rezlyfe.com](https://rezlyfe.com)
 
+Currently only supported at Western University
+
 ### Review your residence
 
 Leave a review for your student dorm building
