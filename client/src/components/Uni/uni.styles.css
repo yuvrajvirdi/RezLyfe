@@ -1,0 +1,12 @@
+.body {
+    margin: 0;
+    padding: 0;
+}
+.nav-bar {
+    min-height: 125px;
+    background: linear-gradient(-45deg, #23a6d5, #660099, rgb(56, 56, 167));
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    margin: 15px;
+    border-radius: 15px;
+}
